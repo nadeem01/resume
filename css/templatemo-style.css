@@ -177,7 +177,7 @@ h5 {
 
 /* start home */
 #home {
-    background: url('../images/home-bg.jpg');
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0.86)), url('../images/d.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 120px;
