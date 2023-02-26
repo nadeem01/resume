@@ -308,8 +308,13 @@ h5 {
     margin-bottom: 30px;
 }
 
+#portfolio .portfolio-thumb {
+    overflow: auto;
+    position: "hidden"
+}
+
 #portfolio .portfolio-thumb .portfolio-overlay {
-    background: #D43F52;
+    background: #353535;
     top: 0;
     left: 0;
     right: 0;
